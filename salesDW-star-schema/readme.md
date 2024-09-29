@@ -1,4 +1,4 @@
-# Sales Data Warehouse
+# Sales Data Warehouse - Star Schema 
 
 ## Overview
 The Company sells various electronic products through its online and offline channels across major cities in the United States. They operate multiple stores and warehouses to manage their inventory and sales operations. The company wants to create a data warehouse to analyze its sales performance and inventory management and aims to generate reports, such as:
