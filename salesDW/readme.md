@@ -27,4 +27,4 @@ The Company sells various electronic products through its online and offline cha
 ## Star Schema ERD
 The star schema used for the data warehouse is illustrated below:
 
-![Star Schema ERD](/Users/macos/Downloads/WORKSPACE/design_DW/salesDW/image/star-schema-ERD.png)
+![Star-Schema ERD](./image/star-schema-ERD.png)
